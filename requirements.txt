@@ -1,0 +1,6 @@
+Flask
+flask-socketio
+eventlet                # or gevent
+kafka-python            # or confluent-kafka
+openai
+python-dotenv
